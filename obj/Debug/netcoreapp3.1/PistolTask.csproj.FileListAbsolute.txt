@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.exe
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.deps.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\bin\Debug\netcoreapp3.1\PistolTask.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PistolTask\obj\Debug\netcoreapp3.1\PistolTask.genruntimeconfig.cache
